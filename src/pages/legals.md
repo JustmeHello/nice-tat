@@ -5,4 +5,4 @@ layout: ../layouts/Layout.astro
 
 are you looking for 
 
-[Terms and Services](/Terms) or [Privacy Policy](/Policy)?
+[Terms and Services](/terms) or [Privacy Policy](/policy)?

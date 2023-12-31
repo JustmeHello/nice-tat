@@ -3,12 +3,25 @@ layout: ../layouts/Layout.astro
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-If your business inquiry is about wanting advice for YouTube or a startup idea or if you want to get me involved in what you're doing or want to collab on some videos or a project or whatever I would direct you here.
+By accessing or using our COD 3PL services, you agree to 
+comply with the terms and conditions outlined herein.
 
-​
 
-If this is for a speaking engagement or appearance or brand work or anything like that you should reach out to WME.  They're great, I've been working with them for years.
+This includes adherence 
+to payment schedules, accurate package information,
+and timely communication. 
 
- 
 
-thank you very much.
+We reserve the right to modify or terminate services at
+ our discretion.
+
+
+Any disputes will be resolved through arbitration. 
+Confidentiality of client information is paramount. 
+By engaging with our services,
+
+you acknowledge and accept these terms. 
+
+
+
+Failure to comply may result in termination of services.

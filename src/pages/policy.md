@@ -3,32 +3,23 @@ layout: ../layouts/Layout.astro
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-If you're trying to reach out to say hello or say something nice you should @ me on Twitter, I try to respond to as many posts as possible.
+We prioritize your privacy. Our Privacy Policy outlines the collection, 
+use, and protection of your personal information. By using our services,
 
-​
 
-If you have a question about making videos or want to share something you made with me or anything like that I would also direct you to Twitter.  I know that's not as satisfying as sending a direct email but my inbox is a big fat mess and when I made it public there were too many messages to respond so they just went unread - that sucks for everyone.  
 
-​
+you consent to the practices described in this policy. 
+We may update the policy periodically, 
 
-If you are in NYC and want to connect personally or have a business idea you want to talk to me about or want a couple minutes of my time on the phone or in person or if you want to connect for a quick selfie or anything that involves a commitment of time, any amount of time, I very very gently have to say no. 
 
- 
 
-Saying no is hard.  There are so many extraordinary circumstances that should warrant me saying yes, but I can't.  It's a hard, inflexible no.
+and it is your responsibility to stay informed about any changes. 
+We employ industry-standard security measures to safeguard your data.
 
-​
 
-Family comes first, work second and whatever is left over I like to use for me which is usually going to the gym or running.  There is no time left for yes.  Even if that means missing opportunities.  
 
-​
+Rest assured, your information is treated with the utmost confidentiality,
 
-Paul Graham really nails why saying yes for a quick coffee can be so destructive to the creative process - give this a read to understand the maker's schedule.
 
-​
 
-My dear friend Ryan Holiday penned this pointed essay to everyone who asks for just a little of your time.  It's brilliant, I wish I'd written it.
-
-​
-
-I am sorry for no, but it's not without reason.
+and we are committed to maintaining the trust you place in us.
