@@ -4,7 +4,8 @@ title: Cod Connect now available in Romania Poland
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
+# Cash on delivery our services available now in: Romania, Poland, Hungary.
+
 
 [email](mailto:contact@codconnect.com)
 
