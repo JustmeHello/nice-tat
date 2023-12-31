@@ -1,17 +1,17 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: Cod Connect now available in Romania Poland Hungary
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
 # Nice Tat Astro Template
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[email](mailto:contact@codconnect.com)
 
-[instagram](https://www.instagram.com/caseyneistat/)
+[LinkedIn](https://www.linkedin.com/)
 
-[onlyfans](/onlyfans)
+[Weed?](/onlyfans)
 
 [twitter](https://twitter.com/Casey)
 
-[contact](/contact)
+[Legals](/contact)

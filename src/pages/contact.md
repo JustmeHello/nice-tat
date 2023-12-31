@@ -3,6 +3,6 @@ layout: ../layouts/Layout.astro
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-are you trying to contact me for a
+are you looking for 
 
-[business inquiry](/business-inquiry) or [something else](/something-else)?
+[Terms and Services](/business-inquiry) or [Privacy Policy](/something-else)?
