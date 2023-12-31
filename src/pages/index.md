@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
-title: Cod Connect now available in Romania Poland Hungary
+title: Cod Connect now available in Romania Poland 
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
@@ -10,7 +10,7 @@ title: Cod Connect now available in Romania Poland Hungary
 
 [LinkedIn](https://www.linkedin.com/)
 
-[Weed?](/onlyfans)
+[Weed](/onlyfans)
 
 [twitter](https://twitter.com/Casey)
 
