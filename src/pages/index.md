@@ -1,18 +1,19 @@
 ---
 layout: ../layouts/Layout.astro
-title: Cod Connect now available in Romania Poland 
+title: Cod Connect 
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
 # Cash on delivery our services available now in: Romania, Poland, Hungary.
 
 
-[email](mailto:contact@codconnect.com)
+
+[Email](mailto:contact@codconnect.com)
 
 [LinkedIn](https://www.linkedin.com/)
 
-[Weed](/onlyfans)
+[Weed](/weed)
 
-[twitter](https://twitter.com/Casey)
+[Twitter](https://twitter.com/)
 
-[Legals](/contact)
+[Legals](/legals)
