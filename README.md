@@ -1,4 +1,3 @@
-<iframe src="https://giphy.com/embed/7kZE0z52Sd9zSESzDA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/buymeacoffee-creator-buy-me-a-coffee-support-7kZE0z52Sd9zSESzDA">via GIPHY</a></p>
 
 
 # Nice Tat
