@@ -1,4 +1,4 @@
-[![Buy me a coffee]([https://vercel.com/button](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg)](https://www.buymeacoffee.com/ARIBAT)
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg)](https://www.buymeacoffee.com/ARIBAT)
 
 
 # Nice Tat
